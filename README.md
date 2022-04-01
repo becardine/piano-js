@@ -2,8 +2,11 @@
 
 This is a solution to the [Masterclass DOM](https://www.notion.so/Masterclass-DOM-48ef7efae2ad4e0c8f9b462b675d2b0d). Learning to manipulate the DOM.
 
+## Screenshot
 
-## Tasks
+![](/style/keyboard.png)
+
+## Learning
 
 - [ ]  Console 👀 (vasculhar o objeto)
     - [ ]  console.dir(document)
